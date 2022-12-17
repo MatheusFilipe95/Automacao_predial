@@ -12,12 +12,12 @@ Este trabalho tem por objetivo a criação de um sistema distribuído de automa�
 
 ## Instruções para execução
 
-### 1) Clone o repositório:
+#### 1) Clone o repositório:
 ```sh 
 git clone https://github.com/MatheusFilipe95/Automacao_predial.git
 ```
 
-### 2) Acesse a pasta do projeto:
+#### 2) Acesse a pasta do projeto:
 ```sh 
 cd Projeto_1
 ```
@@ -34,14 +34,14 @@ scp -P 13508 -r ./Projeto_1 <nome_de_usuario>@164.41.98.16:~
 cd Projeto1
 ```
 
-### 2) Instalar as dependências do projeto:
+#### 2) Instalar as dependências do projeto:
 ```sh
 pip3 install Adafruit_DHT 
 pip3 install adafruit-blinka
 pip3 install configparser
 ```
 
-### 3) Executar o programa:
+#### 3) Executar o programa:
 ```sh
 python3 server.py 164.41.98.16
 ```
@@ -54,14 +54,14 @@ scp -P 13508 -r ./Projeto_1 <nome_de_usuario>@164.41.98.26:~
 cd Projeto1
 ```
 
-### 2) Instalar as dependências do projeto:
+#### 2) Instalar as dependências do projeto:
 ```sh
 pip3 install Adafruit_DHT 
 pip3 install adafruit-blinka
 pip3 install configparser
 ```
 
-### 3) Executar o programa:
+#### 3) Executar o programa:
 ```sh
 python3 client.py
 ```
