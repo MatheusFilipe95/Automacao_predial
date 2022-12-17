@@ -19,7 +19,7 @@ git clone https://github.com/MatheusFilipe95/Automacao_predial.git
 
 #### 2) Acesse a pasta do projeto:
 ```sh 
-cd Projeto_1
+cd Automacao_predial
 ```
 
 **Obs:** Substituir <nome_de_usuario> pelo seu nome de usuário dentro da placa nos comandos abaixo.
@@ -30,8 +30,8 @@ No terminal do servidor central:
 
 #### 1) Copiar a pasta para dentro da rhaspberry:
 ```sh
-scp -P 13508 -r ./Projeto_1 <nome_de_usuario>@164.41.98.16:~
-cd Projeto1
+scp -P 13508 -r ./Automacao_predial <nome_de_usuario>@164.41.98.16:~
+cd Automacao_predial
 ```
 
 #### 2) Instalar as dependências do projeto:
@@ -50,8 +50,8 @@ No terminal do servidor distribuído:
 
 #### 1) Copiar a pasta para dentro da rhaspberry:
 ```sh
-scp -P 13508 -r ./Projeto_1 <nome_de_usuario>@164.41.98.26:~
-cd Projeto1
+scp -P 13508 -r ./Automacao_predial <nome_de_usuario>@164.41.98.26:~
+cd Automacao_predial
 ```
 
 #### 2) Instalar as dependências do projeto:
