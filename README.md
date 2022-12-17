@@ -1,6 +1,6 @@
 
 # Trabalho 01 - Automação Predial
-#### Projeto 1 correspondente a matéria de Fundamentos de Sistemas Embarcados
+#### Projeto 1 correspondente a matéria de Fundamentos de Sistemas Embarcados.
 
 ## Aluno
 |Matrícula | Aluno |
