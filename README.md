@@ -14,7 +14,7 @@ Este trabalho tem por objetivo a criação de um sistema distribuído de automa�
 
 ### 1) Clone o repositório:
 ```sh 
-git clone <link>
+git clone https://github.com/MatheusFilipe95/Automacao_predial.git
 ```
 
 ### 2) Acesse a pasta do projeto:
